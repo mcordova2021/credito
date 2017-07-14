@@ -1,0 +1,10 @@
+F:\Credito\Credito\Credito\bin\Debug\Credito.exe.config
+F:\Credito\Credito\Credito\bin\Debug\Credito.exe
+F:\Credito\Credito\Credito\bin\Debug\Credito.pdb
+F:\Credito\Credito\Credito\bin\Debug\Credito.xml
+F:\Credito\Credito\Credito\obj\Debug\Credito.Form1.resources
+F:\Credito\Credito\Credito\obj\Debug\Credito.Resources.resources
+F:\Credito\Credito\Credito\obj\Debug\Credito.vbproj.GenerateResource.Cache
+F:\Credito\Credito\Credito\obj\Debug\Credito.exe
+F:\Credito\Credito\Credito\obj\Debug\Credito.xml
+F:\Credito\Credito\Credito\obj\Debug\Credito.pdb
